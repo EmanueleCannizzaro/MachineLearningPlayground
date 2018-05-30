@@ -14,6 +14,7 @@ To run this application locally, you need to have the following components insta
 </ul>
 
 <h2> Application Architecture </h2>
+
 ![alt text](https://github.com/AdilKh4n/MachineLearningPlayground/blob/master/image.jpg)
 
 
