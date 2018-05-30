@@ -4,7 +4,7 @@ This is the local version of the cloud based application that provides a unified
 
 <b>Note:</b> With a few changes, this application can be customized to be hosted on the cloud. I had hosted this application on AWS EC2 and used AWS S3 as a storage layer for the application.
 
-![Alt text](/Users/adilkhan/Downloads/Untitled Diagram (2).jpg?raw=true "Title")
+![Alt text](/Users/adilkhan/Downloads/image.jpg?raw=true "Title")
 
 To run this application locally, you need to have the following components installed on your local machine:
 <ul>
