@@ -4,14 +4,19 @@ This is the local version of the cloud based application that provides a unified
 
 <b>Note:</b> With a few changes, this application can be customized to be hosted on the cloud. I had hosted this application on AWS EC2 and used AWS S3 as a storage layer for the application.
 
-![Arch](/Users/adilkhan/Downloads/image.jpg)
 
+<h2> Application Components </h2>
 To run this application locally, you need to have the following components installed on your local machine:
 <ul>
   <li>Python3</li>
   <li>Bokeh</li>
   <li>Flask</li>
 </ul>
+
+<h2> Application Architecture </h2>
+![alt text](https://github.com/AdilKh4n/MachineLearningPlayground/blob/master/image.jpg)
+
+
 
 <h2>Application Features</h1>
 
